@@ -1,2 +1,5 @@
-# Dark-Dash-Board
- Using Bootstrap4 / Chart.js / Jquery
+# Minimal Dark DashBoard
+> Using 
+- Bootstrap4 
+- Chart.js
+- Jquery
